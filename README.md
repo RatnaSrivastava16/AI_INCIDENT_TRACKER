@@ -44,12 +44,12 @@ The app empowers users to **view**, **filter**, **add**, and **report** AI safet
 
 📸 App Screenshots
 
-![Splash Screen](screenshots/img1.png) 
-![Login Screen](screenshots/img2.png)
-![Incident List](screenshots/img3.png)
-![Incident Filter](screenshots/img4.png)
-![Incident Tracker](screenshots/img5.png)
-![Report Incident](screenshots/img6.png)
+![Splash Screen](screenshots/img1.jpeg) 
+![Login Screen](screenshots/img2.jpeg)
+![Incident List](screenshots/img3.jpeg)
+![Incident Filter](screenshots/img4.jpeg)
+![Incident Tracker](screenshots/img5.jpeg)
+![Report Incident](screenshots/img6.jpeg)
 
 📬 Contact
 If you have any queries or feedback, feel free to reach out!
