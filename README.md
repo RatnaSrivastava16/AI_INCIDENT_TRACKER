@@ -42,7 +42,7 @@ The app empowers users to **view**, **filter**, **add**, and **report** AI safet
    ```bash
    git clone https://github.com/your-username/ai-safety-incident-tracker.git
 
-📸 App Screenshots
+## 📸 App Screenshots
 
 <p align="center">
   <img src="screenshots/img1.jpeg" alt="Splash Screen" width="250" />
@@ -55,7 +55,7 @@ The app empowers users to **view**, **filter**, **add**, and **report** AI safet
   <img src="screenshots/img6.jpeg" alt="Report Incident" width="250" />
 </p>
 
-📬 Contact
+## 📬 Contact
 If you have any queries or feedback, feel free to reach out!
 
-🎉 Thank you for checking out AI Safety Incident Tracker!
+# 🎉 Thank you for checking out AI Safety Incident Tracker!
