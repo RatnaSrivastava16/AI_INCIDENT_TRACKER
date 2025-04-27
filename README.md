@@ -25,14 +25,12 @@ The app empowers users to **view**, **filter**, **add**, and **report** AI safet
 
 ## ⚙️ Tech Stack
 
-| Tech
-| :---
-| Kotlin
-| Android SDK
-| SharedPreferences
-| RecyclerView & CardView
-| Spinner
-| Material Components
+- Kotlin
+- Android SDK
+- SharedPreferences (for authentication)
+- RecyclerView & CardView (for incident list)
+- Spinner (for filtering)
+- Material Components (for FAB, EditText, Buttons)
 
 ---
 
