@@ -38,12 +38,12 @@ It also includes:
 1. **Clone the Repository**
    git clone https://github.com/your-username/ai-safety-incident-tracker.git
    
-2. Open in Android Studio
+3. **Open in Android Studio**
    Open Android Studio
 
    Click on Open Project and select the cloned folder.
 
-3. **Build & Run**
+4. **Build & Run**
 
    Connect an Android device or use an emulator.
 
